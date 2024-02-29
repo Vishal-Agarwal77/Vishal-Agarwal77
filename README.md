@@ -1,5 +1,20 @@
 ### Hi there 👋
+I am Vishal Agarwal. I am passionate about web development. I know front-end and currently exploring backend.
+I'm someone who is always on the lookout for modern tools that would improve the experince of the end users.I'm
+hude Productivity nerd who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
 
+TECH STACK:
+- HTML5
+- CSS3
+- JAVASCRIPT
+- BOOTSTRAP
+- CHART.JS
+- MATERIAL UI
+- REDUX
+- REACT ROUTER
+- REACT.JS
+- TAILWIND CSS
+  
 <!--
 **Vishal-Agarwal77/Vishal-Agarwal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
