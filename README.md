@@ -15,10 +15,10 @@ hude Productivity nerd who constantly tries to implement workflows and processes
 - <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/66194dbb-3790-4c87-80f2-7ff4f7e98911" width="20" /> REACT ROUTER
 - <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/5bfe9c02-ed6e-4906-bb96-6bf8f5a7b60c" width="20" /> REACT.JS
 - <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/0ce9381a-ad0b-4d6d-baac-db47f64f98ad" width="20" /> TAILWIND CSS
-  <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/36dd0975-e3f8-4446-8376-89813e854a14" width="20" /> MONGODB
-  <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/d12e4388-4706-4769-b68c-97049abd8ce7" width="20" /> EXPRESS
-  <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/b8966e6c-5ac9-4d48-b56a-4c5ec1c5c79c" width="20" /> NODE
-  <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/6dfa174c-3e1a-4ff4-b44e-6531199e37ac" width="20" /> JWT
+- <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/36dd0975-e3f8-4446-8376-89813e854a14" width="20" /> MONGODB
+- <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/d12e4388-4706-4769-b68c-97049abd8ce7" width="20" /> EXPRESS
+- <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/b8966e6c-5ac9-4d48-b56a-4c5ec1c5c79c" width="20" /> NODE
+- <img src="https://github.com/Vishal-Agarwal77/Vishal-Agarwal77/assets/108511250/6dfa174c-3e1a-4ff4-b44e-6531199e37ac" width="20" /> JWT
 
 <!--
 **Vishal-Agarwal77/Vishal-Agarwal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
